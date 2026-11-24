@@ -1,4 +1,4 @@
-[mentormatch_repository_readme.md](https://github.com/user-attachments/files/35335712/mentormatch_repository_readme.md)
+
 # MentorMatch: Intelligent Graduate Mentorship Platform
 
 [![Live Demo](https://img.shields.io/badge/Vercel-Hosted_App-brightgreen)](https://mentor-match-one.vercel.app)
